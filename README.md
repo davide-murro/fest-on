@@ -51,8 +51,3 @@ The project is enterily written in HTML, CSS and Javascript and is full responsi
 
 https://davide-murro.github.io/fest-on/
 
-## Screenshoots
-
-![davidemurro github io_Fest-ON_](https://github.com/DavideMurro/Fest-ON/assets/118051417/6298b10e-d9ec-4a30-ac4d-db415f733d8c)
-![davidemurro github io_Fest-ON_event-2023-june html](https://github.com/DavideMurro/Fest-ON/assets/118051417/fbaa314d-9228-4e18-a008-d24d79d52194)
-![davidemurro github io_Fest-ON_event-2023-june html mobile](https://github.com/DavideMurro/Fest-ON/assets/118051417/ef722f21-32b9-4ebc-8415-cba0e1df0b43)
