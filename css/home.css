@@ -70,6 +70,9 @@
 #first-page-container #last-event-button:hover {
     background-color: #ffc400;
 }
+#first-page-container #last-event-button #last-event-title {
+    margin: 0.25em;
+}
 
 .page-container {
     display: flex;
@@ -92,6 +95,10 @@
 .page-container .event-button:hover {
     background-color: #ffc400;
     color: #414141;
+}
+.page-container .event-button .event-title {
+    margin-top: 0.25em;
+    margin-bottom: 0.75em;
 }
 .page-container .event-button .event-cover {
     width: 100%;
